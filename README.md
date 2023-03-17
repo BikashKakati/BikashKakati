@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [bikashportfolioapp.netlify.app](bikashportfolioapp.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="https://bikashportfolioapp.netlify.app">
 
 - 💬 Ask me about **JAVA, Python**
 
