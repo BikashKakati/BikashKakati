@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://bikashportfolioapp.netlify.app">
 
-- 💬 Ask me about **JAVA, Python**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **bikashkakati796@gmail.com**
 
