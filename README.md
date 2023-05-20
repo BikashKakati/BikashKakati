@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at <a href="https://bikashportfolioapp.netlify.app">
+- 👨‍💻 All of my projects are available at <a href="https://bikashportfolioapp.netlify.app">**Bikash Portfolio**</a>
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **bikashkakati796@gmail.com**
 
-- 📄 Know about my experiences [bikashportfolioapp.netlify.app](bikashportfolioapp.netlify.app)
+- 📄 Know about my experiences <a href="https://bikashportfolioapp.netlify.app">**MY Projects**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
