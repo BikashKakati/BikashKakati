@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/web_been" target="blank"><img src="https://img.shields.io/twitter/follow/web_been?logo=twitter&style=for-the-badge" alt="web_been" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Node js**
 
 - 👨‍💻 All of my projects are available at <a href="https://bikashportfolioapp.netlify.app">**Bikash Portfolio**</a>
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, REDUX, REDUX TOOLKIT**
 
 - 📫 How to reach me **bikashkakati796@gmail.com**
 
