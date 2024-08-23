@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikashkakati&label=Profile%20views&color=0e75b6&style=flat" alt="bikashkakati" /> </p>
 
 
-- 🔭 I’m currently working on **Mern stack Ecommerce App**
+- 🔭 I’m currently working on **Mern stack Web Application**
 
 - 🌱 I’m currently learning **Node, Express and MongoDB**
 
