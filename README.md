@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikashkakati&label=Profile%20views&color=0e75b6&style=flat" alt="bikashkakati" /> </p>
 
 
-- 🔭 I’m currently working on **Mern stack Web Application**
+- 🔭 I’m currently working on **Listeno, an ultimate music solution**
 
-- 🌱 I’m currently learning **Node, Express and MongoDB**
+- 🌱 I’m currently learning **Mobile Development with react native**
 
 - 👨‍💻 My latest work link [food-auto.netlify.app](https://food-auto.netlify.app/)
 
