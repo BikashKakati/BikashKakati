@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bikashkakati796@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1ngYKa1yGPxniYJw_BZV7FuQKOT4FeGT8fnqbRr0qFcI/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1SmaosDafC362nkR43voQkcKvEdusvtfzlc0Xfys225o/edit?usp=sharing)
 
 
 ## 🌐 Socials:
